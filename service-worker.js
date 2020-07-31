@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://visciang.github.io/precache-manifest.3c081149c5ef20f599dbab6c2b75be42.js"
+  "https://visciang.github.io/precache-manifest.6317d5d20f68260461faf81898389172.js"
 );
 
 self.addEventListener('message', (event) => {
