@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66190c2dbed019955935f39b709c680c",
+    "revision": "fcd41ffe300301c7d46e09340405ccb3",
     "url": "https://visciang.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://visciang.github.io/static/css/4.8921c4c4.chunk.css"
   },
   {
-    "revision": "d37931b89859c0643b7e",
+    "revision": "dfbd86310d2fedb818f2",
     "url": "https://visciang.github.io/static/css/main.4b400197.chunk.css"
   },
   {
@@ -252,8 +252,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://visciang.github.io/static/js/9.2f7840fc.chunk.js"
   },
   {
-    "revision": "d37931b89859c0643b7e",
-    "url": "https://visciang.github.io/static/js/main.5754651c.chunk.js"
+    "revision": "dfbd86310d2fedb818f2",
+    "url": "https://visciang.github.io/static/js/main.51a7aabb.chunk.js"
   },
   {
     "revision": "dedb712a07471d6040bb",
